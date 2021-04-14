@@ -1,5 +1,5 @@
 Age = 20
-Address = "San Carlos, Rosario, Batangas\n"
+Address = "San Carlos, Rosario, Batangas"
 firstn = "Aeron Gabriel"
 lastn = "Montalbo"
 space = " "
